@@ -4,7 +4,7 @@ Fashion Mnist Image Classification Using Convolutional Neural Networks (TensorFl
 
 https://habiburrahman-mu.github.io/works/Fashion-Mnist-Using-CNN-TensorFlowJS/fashion-mnist.html
 
-I build a simple convoluation neural network using tensorflow-js to classify Fashion-MNIST dataset.
+I have built a simple convoluational neural network using tensorflow-js to classify Fashion-MNIST dataset.
 
 The training set consists of 60k examples and test set consists of 10k examples. Each example is a 28x28 grayscale image, 
 associated with a label from 10 classes as mentioned below. 
